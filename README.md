@@ -38,8 +38,7 @@ En route !
 
 * Familiarisation avec la stack technique (Spring Boot / Java / Gradle) en utilisant Spring Initializr
 <https://spring.io/guides/gs/spring-boot/>
-* Initialisation du projet blockchain-api
-<LIEN GITHUB>
+* Initialisation du projet blockchain-api <https://github.com/celinegilet/blockchain-api>
 * Consommer le service RESTFul GET <https://api.blockchain.info/stats> en s'inspirant du tuto <https://spring.io/guides/gs/consuming-rest/>
 * Comment écrire des tests avec une dépendance extérieure ?
 * Tester unitairement avec Mockito. Quels sont les avantages / incovénients ?
