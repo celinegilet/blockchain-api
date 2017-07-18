@@ -40,10 +40,10 @@ En route !
 <https://spring.io/guides/gs/spring-boot/>
 * Initialisation du projet blockchain-api
 <LIEN GITHUB>
-* Consommer le service RESTFul GET <https://api.blockchain.info/stats> en s'inspirant du tuto : <https://spring.io/guides/gs/consuming-rest/>
+* Consommer le service RESTFul GET <https://api.blockchain.info/stats> en s'inspirant du tuto <https://spring.io/guides/gs/consuming-rest/>
 * Comment écrire des tests avec une dépendance extérieure ?
-  * En utilisant Mockito
-  * En utilisant MockRestServiceServer : <https://objectpartners.com/2013/01/09/rest-client-testing-with-mockrestserviceserver/>
+* Tester unitairement avec Mockito. Quels sont les avantages / incovénients ?
+* Tester en simulant un serveur REST avec MockRestServiceServer : <https://objectpartners.com/2013/01/09/rest-client-testing-with-mockrestserviceserver/> Quels sont les avantages / inconvénients ?
 * Gérer les cas d'erreurs (Erreur 500, Erreur 404)
 * Ecrire un controller REST permettant de récupérer les informations
 
